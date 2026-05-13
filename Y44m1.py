@@ -1,1 +1,1 @@
-import y444m1mp
+import my_script
